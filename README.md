@@ -1,6 +1,6 @@
 ### Hi, I'm Changwoo 👋
 
-CS & Math student at Tufts University (class of 2028), building things with data and backend systems.
+Major in Computer Science and Minor in AI Developments at Tufts University (class of 2028), building things with data and backend systems.
 
 **Currently**
 - Building and tuning a machine learning pipeline in [NBA Match Predictor](https://github.com/Changwoo-Heo/NBA_Match_Predictor)
