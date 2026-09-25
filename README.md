@@ -4,7 +4,6 @@ Major in Computer Science and Minor in AI Developments at Tufts University (clas
 
 **Currently**
 - Building and tuning a machine learning pipeline in [NBA Match Predictor](https://github.com/Changwoo-Heo/NBA_Match_Predictor)
-- Mentoring high school students applying to U.S. universities through The Dot Society
 
 **Featured project**
 
