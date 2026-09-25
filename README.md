@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi, I'm Changwoo 👋
 
-<!--
-**Changwoo-Heo/Changwoo-Heo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS & Math student at Tufts University (class of 2028), building things with data and backend systems.
 
-Here are some ideas to get you started:
+**Currently**
+- Building and tuning a machine learning pipeline in [NBA Match Predictor](https://github.com/Changwoo-Heo/NBA_Match_Predictor)
+- Mentoring high school students applying to U.S. universities through The Dot Society
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Featured project**
+
+[**NBA Match Predictor**](https://github.com/Changwoo-Heo/NBA_Match_Predictor) — scrapes and parses 17,600+ NBA box scores across 7 seasons into a 150+ feature dataset, then backtests a Ridge classifier season-by-season to forecast game outcomes on unseen future seasons, reaching 63%+ accuracy.
+
+**Tech I work with**
+
+`Java`  `Python`  `C / C++`  `JavaScript`  `SQL`
+`Express`  `Spring Boot`  `MongoDB`  `Git`
+
+**Reach me**
+
+📫 changwoo.heo@tufts.edu
